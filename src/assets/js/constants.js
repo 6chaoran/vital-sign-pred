@@ -1,0 +1,1 @@
+export const maxCountDown = 60;
